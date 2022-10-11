@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working in ViewMagine
 - 🌱 I’m currently learning everything scientific
 - 👯 I’m looking to collaborate on improving people's lifestyle using AI
